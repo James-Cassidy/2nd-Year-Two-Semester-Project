@@ -1,0 +1,36 @@
+/AirportSquare.class
+/Bank.class
+/Board.class
+/CardSquare.class
+/Colour.class
+/Dice.class
+/Jail.class
+/LocationOnBoard.class
+/MainMenu.class
+/Player.class
+/Property.class
+/Start.class
+/WildlifeSanctuaries.class
+/Menu.class
+/Board$squareType.class
+/WhaleSquare.class
+<<<<<<< HEAD
+=======
+/Card.class
+/Card$cardType.class
+>>>>>>> d59f338e1a252d785994df3e5d573acbe5dcb867
+/Disaster.class
+/DisasterSquare.class
+/Whale$Whaletype.class
+/Whale.class
+/BalanceTest.class
+/PayPlayerTest.class
+/payPlayerTest.class
+/updateLocationTest.class
+/squareTypeTest.class
+/diceTest.class
+/inJailTest.class
+/buyLandTest.class
+/inWhaleTest.class
+/buySanctuaryTest.class
+/airportTest.class
